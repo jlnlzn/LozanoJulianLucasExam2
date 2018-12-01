@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140137711087",
+    "firebase_url": "https://lozanojulianexam2-16e9a.firebaseio.com",
+    "project_id": "lozanojulianexam2-16e9a",
+    "storage_bucket": "lozanojulianexam2-16e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140137711087:android:6bc9ab4ab257bd65",
+        "android_client_info": {
+          "package_name": "julian.lozano.com.lozanojulianexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140137711087-ns98vh6ea7ll3e0rlg0mnoh33cg6kvgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "julian.lozano.com.lozanojulianexam2",
+            "certificate_hash": "9368f94967fa601aa95855f5c4fcd0847c0165ec"
+          }
+        },
+        {
+          "client_id": "140137711087-hmni1qo55uh36mvecn1r1p4jajaoebnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkt36Jkxp8ldpZ0lu3MfHQE0myLIF6M2Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140137711087-hmni1qo55uh36mvecn1r1p4jajaoebnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
